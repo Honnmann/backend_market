@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E;CACC,oCAAoC;AACrC,C","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\n.bg-dark {\n\tbackground-color: #440057 !important;\n}"],"sourceRoot":"webpack:///"}
